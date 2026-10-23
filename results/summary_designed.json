@@ -1,0 +1,28 @@
+{
+  "config": {
+    "frames": 48,
+    "grid": 32,
+    "modes": 4,
+    "seed": 0,
+    "trials": 5
+  },
+  "field": "designed",
+  "metrics": {
+    "bit_budget": 53504,
+    "phase_plus_modes_mse": 0.0032875645995617216,
+    "pod_energy_captured": 0.7210218310322113,
+    "pod_oracle_float64_mse": 0.0032875210089223185,
+    "raw_at_bit_budget_bits": 53384,
+    "raw_at_bit_budget_mse": 0.03380999955985329,
+    "raw_frames_mse": 9.847147256590516e-07,
+    "sparse_samples_per_frame": 139
+  },
+  "schema_version": 1,
+  "sha512_sentinel": "9bdd82de9e2675ef2cf1ed9102902d0918566c11540a579cf7b8e6cd8a551d443b5be12f13f5b96dc411c999a7866cbd98f33351fa6028a9d06dc18e92b7b1db",
+  "win_counts": {
+    "phase_plus_modes_vs_raw_at_bit_budget": {
+      "trials": 5,
+      "wins": 5
+    }
+  }
+}
